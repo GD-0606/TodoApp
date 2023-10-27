@@ -1,0 +1,36 @@
+.modal-content .modal-header button{
+    box-shadow: none;
+}
+.strike{
+   text-decoration: line-through;
+}
+.no-todo {
+    font-size: 4rem;
+    text-align: center;
+    
+  }
+
+/*dropdowm*/
+#dropdown-item-button{
+    background-color:lightblue;
+    border-color:lightblue;
+    color:black
+
+}
+div.dropdown-menu.show{
+    background-color: #193152;
+
+}
+
+button.dropdown-item{
+    background-color: #193152;
+    color: #ffffff;
+}
+button.dropdown-item:active{
+    background-color:transparent;
+}
+button.dropdown-item:hover{
+    background-color:#000033;
+    color: #ffffff;
+}
+/*card*/
