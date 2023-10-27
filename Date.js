@@ -1,6 +1,0 @@
-const moment=require('moment')
-const m1=moment()
-const m2=moment("2023-08-28T11:43:37.342Z")
-const m3=moment("2023-08-28T12:40:05.500Z")
-const val=moment(m2).diff(moment(m3))
-console.log(m1.toISOString())
